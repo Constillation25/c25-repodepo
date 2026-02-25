@@ -2,7 +2,7 @@
 
 Local-first agent orchestration platform — built to run on your hardware, keep data on-device, and ship automations fast.
 
-Repository: FacePrintPay/agentik  
+Repository: Constellation25/agentik  
 Web UI: product/web/index.html  
 Installer: install.sh
 
@@ -102,4 +102,4 @@ git rm -r --cached <folder>
 ## Credits
 
 Built by CyGel & The Brickle Brothers  
-FacePrintPay / TheKre8tive
+Constellation25 / TheKre8tive
